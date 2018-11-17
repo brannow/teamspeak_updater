@@ -7,7 +7,7 @@ Update Linux and Mac Teamspeak server
 * php-bz2
 * php-curl
 
-run teamspeak with its own user.
+required and best practice: run teamspeak with a dedicated teamspeak user.   
 
 ## configuration
 
