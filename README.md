@@ -25,6 +25,6 @@ create a cronjob ``` crontab -e ``` and run the script with root permissions.
 
 the script will handle the correct user and group ifself.   
 if an update is available, the avg. downtime for of the server is about 5-10seconds.    
-if no update is avialable nothing happend.     
+if no update is available nothing happend.     
 
 my cronjob job runs every week on sunday 4am.
