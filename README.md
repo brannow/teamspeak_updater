@@ -6,6 +6,7 @@ Update Linux and Mac Teamspeak server
 * php-zip
 * php-bz2
 * php-curl
+* php with enabled ``` exec() ``` function
 
 required and best practice: run teamspeak with a dedicated teamspeak user.   
 
